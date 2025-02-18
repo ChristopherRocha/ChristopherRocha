@@ -76,13 +76,15 @@
 
 ##Estatísticas para nerds 
 
+<p>(amo um c# 💜)
+
 [![ChristopherRocha](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherRocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>(preciso de ajudar em mais códigos open source 😬)
 
 [![card](https://github-readme-stats.vercel.app/api?username=ChristopherRocha&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>I-i-i-i-isso é tu-tu-tudo Pessoal</h2>
+<h2>I-i-i-i-isso é tu-tu-tudo Pessoal</h2> (Por enquanto...)
 <img src="https://i.pinimg.com/originals/2a/82/1e/2a821ee45ca3cbc384c0b70f730248ae.gif" width=300px>
 
 ------
