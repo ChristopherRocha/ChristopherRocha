@@ -12,6 +12,6 @@
 - Atualmente estou aprendendo Python e me aprofudando mais em React e JS
 - Portfolio: (em construção :p)
 
-<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)" width=300px>
+<img src="https://i.pinimg.com/originals/aa/d6/7a/aad67ae1bf5c93d323ee652caba537ba.gif" width=300px>
 
 ------
