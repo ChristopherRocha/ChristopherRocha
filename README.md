@@ -59,7 +59,6 @@
     alt="C#" 
     title="C#"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 <img 
@@ -76,7 +75,7 @@
 
 ##Estatísticas para nerds 
 
-<p>(amo um c# 💜)
+<p>(amo um c# 💚)
 
 [![ChristopherRocha](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherRocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
