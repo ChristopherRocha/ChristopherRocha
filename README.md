@@ -13,6 +13,6 @@
 - Portfolio: (em construção :p)
 
 <h2>I-i-i-i-isso é tu-tu-tudo Pessoal</h2>
-<img src="[https://i.pinimg.com/originals/aa/d6/7a/aad67ae1bf5c93d323ee652caba537ba.gif](https://i.pinimg.com/originals/2a/82/1e/2a821ee45ca3cbc384c0b70f730248ae.gif)" width=300px>
+<img src="https://i.pinimg.com/originals/2a/82/1e/2a821ee45ca3cbc384c0b70f730248ae.gif" width=300px>
 
 ------
