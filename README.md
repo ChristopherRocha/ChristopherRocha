@@ -12,6 +12,7 @@
 - Atualmente estou aprendendo Python e me aprofudando mais em React e JS
 - Portfolio: (em construção :p)
 
+<h2>I-i-i-i-isso é tu-tu-tudo Pessoal</h2>
 <img src="https://i.pinimg.com/originals/aa/d6/7a/aad67ae1bf5c93d323ee652caba537ba.gif" width=300px>
 
 ------
