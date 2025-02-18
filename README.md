@@ -5,7 +5,7 @@
 
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-## 😃 Sobre mim!
+<img src="https://media.tenor.com/fEthhnb02dIAAAAM/bucktooth-emoji-patrick-star.gif" width=40px> Sobre mim!
 
 - Desenvolvo aplicações no front end com **HTML, Javascript, CSS, Bootstrap, React**
 - Desenvolvo aplicações no back-end utilizando **C# e JavaScript**
