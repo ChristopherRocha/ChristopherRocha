@@ -12,6 +12,6 @@
 - Atualmente estou aprendendo Python e me aprofudando mais em React e JS
 - Portfolio: (em construção :p)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PushpneetSingh.PushpneetSingh)
+![visitors](![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white))
 
 ------
