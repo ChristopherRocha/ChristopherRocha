@@ -10,7 +10,7 @@
 - Desenvolvo aplicações no front end com **HTML, Javascript, CSS, Bootstrap, React**
 - Desenvolvo aplicações no back-end utilizando **C# e JavaScript**
 - Atualmente estou aprendendo Python e me aprofudando mais em React e JS
-- Portfolio: (em construção :p)
+- Portfolio: chrisrocha.dev
 
 ### 🤖 Linguagens e Tecnologias
 <img 
